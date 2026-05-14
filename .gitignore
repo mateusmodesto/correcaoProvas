@@ -1,0 +1,7 @@
+
+teste/
+**/__pycache__/
+*.pyc
+.env
+inuteis/
+debug/
